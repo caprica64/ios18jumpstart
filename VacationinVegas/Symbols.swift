@@ -21,5 +21,5 @@ struct Symbols: View {
 }
 
 #Preview {
-    ContentView()
+    Symbols()
 }
